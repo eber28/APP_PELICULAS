@@ -31,6 +31,8 @@ fue **whatsapp** ya que la mayoria de personas lo utilizan
 la pagina wed **TRELLO** fue mi eleccion ya que las tareas lo puedes ordenar de manera facil 
 y sin complicasiones 
 
+https://trello.com/invite/b/672cd700f3f7df8942d9678d/ATTI4c83f69ecd910126aba0e3a12072153d3927DB38/apppeliculas
+
 ![alt text](image-5.png)
 # (PRODUCTO MINIMO VIABLE) MVP
 Para mi MVP ey utilizado las herramientas de google mas especifico 
@@ -45,4 +47,3 @@ de las personas que respondieron
 ![alt text](image-6.png)
 ![alt text](image-7.png)
 # PESTAÑA DE INICIO (LANDING PAGE)
-# codificar
